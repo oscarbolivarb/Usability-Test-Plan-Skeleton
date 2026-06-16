@@ -1,13 +1,20 @@
 # Usability-Test-Plan-Skeleton
 
 Test Title 
+
 Usability Test Plan Skeleton for a Medical Appointment Scheduling System.
+
 System Overview
+
 The selected system is a Medical Appointment Scheduling System. This system allows patients to create accounts, schedule appointments, view upcoming appointments and cancel or reschedule visits when needed. The purpose of the system is to make it easier for the patients to manage their healthcare appointments online instead of calling the clinic. 
 The intended users would be patients with different levels of computer experience. The system helps improve convenience making it easier for users to manage their appointment much quicker. 
+
 Purpose and Research Questions
+
 Purpose
+
 The main purpose of this usability test is to evaluate how easy it is for users to complete common tasks with the Medical Appointment Scheduling System. The results from this study will help identify usability problems and determine whether any improvements are needed before the system is fully implemented.
+
 Research Questions 
 1.	Can users successfully schedule an appointment without any assistance? 
 2.	Where do users experience any confusions while using the system?
